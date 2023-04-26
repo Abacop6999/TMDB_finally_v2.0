@@ -1,0 +1,27 @@
+TMDB: DOCUMENTACIÓN GENERAL
+
+
+1ero: estructura de carpetas
+
+_api________
+
+
+_src________
+
+2do instalar dependencias
+
+//SERVIDOR
+* npm init
+
+api: npm i axios cookie-parser cors dotenv express express-validator jsonwebtoken mongoose nodemon
+
+Package.json parte de scripts:
+"start": "nodemon index.js"
+
+Configurar el .env(api de TMDB,url de mongoDB,etc)
+
+//Frontend
+* npx create react-app .
+
+src: npm install @mui/material @emotion/react @emotion/styled @fontsource/roboto @mui/icons-material @mui/lab @reduxjs/toolkit react-redux react-router-dom axios dayjs formik yup swiper react-toastify query-string
+ 
