@@ -47,7 +47,8 @@ En este sentido, deberás enfocarte primero en las funcionalidades _Must Have_ (
 📓 **Prioridad Baja** (_Won't Have_)
 
 - _Full responsive_.
-- _Loguear_ usuarios a través de su cuenta en Google.
+
+### Para ejecutar el proyecto mire .env.example de api/
 
 ### Pledu
 
